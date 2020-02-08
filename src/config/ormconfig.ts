@@ -8,15 +8,15 @@ const docker = {
   port: 5432,
   username: 'postgres',
   password: '12345',
-  database: 'chapDB',
+  database: 'sweelolchatDB',
 };
 
 const dev = {
   host: 'localhost',
   port: 5432,
-  username: 'vineesh',
+  username: 'pojoba01',
   password: '1234',
-  database: 'chapDB',
+  database: 'sweelolchatDB',
 };
 
 const deploy = {

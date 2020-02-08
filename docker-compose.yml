@@ -7,7 +7,7 @@ services:
     environment:
       POSTGRES_USER: postgres
       POSTGRES_PASSWORD: 12345
-      POSTGRES_DB: chapDB
+      POSTGRES_DB: sweelolchatDB
     volumes:
       - ./pgdata:/var/lib/postgresql/data
 
